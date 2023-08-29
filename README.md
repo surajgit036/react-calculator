@@ -1,3 +1,3 @@
 # react-calculator
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-neffan)
+[See live project ⚡️](https://stackblitz-starters-neffan.stackblitz.io)
